@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Shiv Bamzai
+##  Hi, I'm Shiv Bamzai
 
-💻 **Full-Stack Developer** passionate about creating modern, scalable web applications.  
+ **Full-Stack Developer** passionate about creating modern, scalable web applications.  
 I love working on **frontend with React.js** ⚛️ and **backend with Node.js** 🛠️, turning ideas into functional digital products.
 
 ---
@@ -20,13 +20,13 @@ I love working on **frontend with React.js** ⚛️ and **backend with Node.js**
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bamzai-shiv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shiv-bamzai-2a48451ab)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivbamzai96@gmail.com)
 
 ---
 
-⭐️ *“Always learning, always building.”* 🚀
+*“Always learning, always building.”*
 ..
 -->
