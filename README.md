@@ -72,29 +72,6 @@ const shiv = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivbamzai&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivbamzai&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivbamzai&theme=midnight-purple&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivbamzai&theme=discord&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
